@@ -6,4 +6,3 @@
 ✌Estudando: js
 
 
-  ![Snake animation](https://github.com/ADRIELAGUIAR03/ADRIELAGUIAR03/blob/output/github-contribution-grid-snake.svg)
