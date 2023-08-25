@@ -5,7 +5,7 @@
    
 <img align="right" src="https://img.shields.io/" />
 </br>
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=leehxd&count_private=true&show_icons=true&theme=radical" />
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=xd&count_private=true&show_icons=true&theme=radical" />
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&theme=radical&langs_count=8" />
 </br>
 <table>
