@@ -22,5 +22,5 @@
  
  segue ai! 
 
-[![Instagram Badge](https://img.shields.io/badge/https://instagram.com/adriel.batista_2353?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)](https://www.instagram.com/_leehxd/) 
+[![Instagram Badge](https://instagram.com/adriel.batista_2353?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)](https://www.instagram.com/_leehxd/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiajm/)
