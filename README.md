@@ -10,7 +10,6 @@
 </br>
 <table>
     <tr>
-    
         <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
         <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>
         <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"></td>
