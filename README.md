@@ -12,9 +12,7 @@
     <tr>
         <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
         <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>
-        <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"></td>
         <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="120" alt="Laravel"></td>
     </tr>
  
 </table>
@@ -22,7 +20,7 @@
 
 **SAO LUIZ, MA- 🇧🇷**  
  
-Me segue ai! 
+ segue ai! 
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leehxd/) 
+[![Instagram Badge](https://img.shields.io/badge/https://instagram.com/adriel.batista_2353?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)](https://www.instagram.com/_leehxd/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiajm/)
